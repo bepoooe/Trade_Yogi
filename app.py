@@ -270,4 +270,4 @@ def run_analysis(selected_companies, investment_amount, holding_period, start_da
     return results
 
 if __name__ == "__main__":
-    app.run(debug=True, use_reloader=True)
+    app.run(debug=True)
